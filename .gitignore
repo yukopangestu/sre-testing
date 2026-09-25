@@ -1,0 +1,16 @@
+# Terragrunt
+.terragrunt-cache/
+.terragrunt-source-manifest
+.terragrunt-module-manifest
+.terragrunt-source-version
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+terraform.log
+
+# OS
+.DS_Store
